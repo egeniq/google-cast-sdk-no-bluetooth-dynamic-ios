@@ -19,7 +19,7 @@ and the Google Cast SDK Additional Developer Terms of Service (https://developer
   spec.homepage     = "https://developers.google.com/cast/"
   spec.license      = { :type => "Commercial", :text => "https://developers.google.com/terms/" }
   spec.authors      = "Google Inc."
-  spec.source       = { :git => "git@github.com:egeniq/google-cast-sdk-no-bluetooth-dynamic.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "git@github.com:egeniq/google-cast-sdk-no-bluetooth-dynamic-ios.git", :tag => "#{spec.version}" }
 
   spec.ios.deployment_target = "9.0"
 
